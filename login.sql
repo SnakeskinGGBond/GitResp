@@ -16,3 +16,9 @@ insert into t_user(loginName,loginPwd,realName) values ('zhangsan','123','张三
 insert into t_user(loginName,loginPwd,realName) values ('jack','123','Jack');
 commit;
 select * from t_user;
+
+select * from t_user;
+select * from t_user;
+select * from t_user;
+select * from t_user;
+select * from t_user;
